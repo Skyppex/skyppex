@@ -13,7 +13,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
 - :telescope: I'm have mainly worked in Unity3d <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="16" height="16"> with C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="16" height="16"> and .NET <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="20" height="20"> and publish some libraries and useful packages here on GitHub.
 

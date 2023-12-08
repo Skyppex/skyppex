@@ -17,14 +17,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭: I mainly work in C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="16" height="16"> & .NET <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="20" height="20"> and have played around alot with Unity3d <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="16" height="16"> and publish some libraries and useful packages for Unity here on GitHub through my own organization [Hybel Studio](https://github.com/HybelStudio) just to keep things neatly organized for those who don't care about Unity 😠
 
-- 🌱 I'm always exploring new Technologies. Currently, interested in Cloud Computing ☁️: with Azure <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="16" height="16"/>&nbsp;
+- 🌱 I'm always exploring new Technologies. Currently, interested in Cloud Computing ☁️ with Azure <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="16" height="16"/>&nbsp;
 
 
-- 🎵 In my free time, I play Music. My main instrument is Piano 🎹: I also compose music 🎼:
+- 🎵 In my free time, I play Music. My main instrument is Piano 🎹 I also compose music 🎼
 
-- 🎲 I also love Dungeons & Dragons and Magic: The Gathering 🪄: as well as gaming 🎮:
+- 🎲 I also love Dungeons & Dragons and Magic: The Gathering 🪄 as well as gaming 🎮
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brage_Ingebrigtsen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brage-ingebrigtsen-1b97a025a/)
+- 📫 How to reach me -> [![Linkedin Badge](https://img.shields.io/badge/-Brage_Ingebrigtsen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brage-ingebrigtsen-1b97a025a/)
 
 ---
 

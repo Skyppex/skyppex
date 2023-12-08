@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
-- 🔭: I mainly work in C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="16" height="16"> & .NET <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="20" height="20"> and have played around alot with Unity3d <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="16" height="16"> and publish some libraries and useful packages for Unity here on GitHub through my own organization [Hybel Studio](https://github.com/HybelStudio) just to keep things neatly organized for those who don't care about Unity 😠
+- 🔭 I mainly work in C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="16" height="16"> & .NET <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="20" height="20"> and have played around alot with Unity3d <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="16" height="16"> and publish some libraries and useful packages for Unity here on GitHub through my own organization [Hybel Studio](https://github.com/HybelStudio) just to keep things neatly organized for those who don't care about Unity 😠
 
 - 🌱 I'm always exploring new Technologies. Currently, interested in Cloud Computing ☁️ with Azure <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="16" height="16"/>&nbsp;
 

@@ -22,7 +22,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🎵 In my free time, I play Music. My main instrument is Piano 🎹 I also compose music 🎼
 
-- 🎲 I also love Dungeons & Dragons and Magic: The Gathering 🪄 as well as gaming 🎮
+- 🎲 I also love Dungeons & Dragons and Magic: The Gathering as well as gaming 🎮
 
 - 📫 How to reach me -> [![Linkedin Badge](https://img.shields.io/badge/-Brage_Ingebrigtsen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brage-ingebrigtsen-1b97a025a/)
 

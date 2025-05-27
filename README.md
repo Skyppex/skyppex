@@ -42,7 +42,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" height="40">
   <img src="https://avatars.githubusercontent.com/u/16239022?v=4&s=160" title="Chilli Cream" alt="Chilli Cream" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git"height="40">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/plastic-scm-logo-png-transparent.png" title="Plastic SCM" alt="Plastic SCM"height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="nvim" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" title="JetBrains Rider" alt="JetBrains Rider" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="40">
